@@ -1,0 +1,35 @@
+#search_container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#search {
+    height: 40px;
+    font-size: 100%;
+}
+
+#clear_button {
+    background: none;
+    margin-left: 10px;
+}
+
+.product {
+    border: 1px solid black;
+    display: grid;
+    height: auto;
+    align-items: center;
+    text-align: center;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px; 
+}
+
+#product_list {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.remove {
+    display: none;
+}
+
