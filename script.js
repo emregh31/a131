@@ -22,7 +22,7 @@ const fruits = [
     { "title": "Limon", "code": "2920 800" },
     { "title": "Kivi", "code": "2920 834" },
     { "title": "Ananas", "code": "2001 807" },
-    { "title": "Avakado", "code": "2000 329" },
+    { "title": "Avokado", "code": "2000 329" },
     { "title": "Hindistan Cevizi", "code": "2000 237" },
     { "title": "Açık Ceviz", "code": "2915 887" },
     { "title": "Taze Fasulye", "code": "2920 790" },
